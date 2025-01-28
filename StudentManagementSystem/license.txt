@@ -1,0 +1,49 @@
+Student Management System License Information
+
+Project: Student Management System
+Group 4 Members and Roles
+
+University: INES Ruhengeri
+Department: Computer Science
+Option: Software Engineering
+Year: 3
+Date: 27th January 2025
+Lecturer: **MUNYENTWARI Clement** (Masters Degree)
+
+Group Members and Roles:
+
+1. **IRUTABOSE Yoramu**
+   - Email: petitirutabyoseyoramu@gmail.com
+   - Phone: +250781014782
+   - Reg Number: 23/22136
+   - Role: Team Lead & Deployment Manager
+   - Responsibilities: Oversee project progress, coordinate team activities, manage documentation submission, compile final project files, package deliverables, and ensure proper file naming.
+
+2. **MASONGA SHEMA Prince**
+   - Email: masongashemap@gmail.com
+   - Phone: +250786781268
+   - Reg Number: 23/20861
+   - Role: Frontend Developer
+   - Responsibilities: Design and implement GUI using WinForms and Razor Views.
+
+3. **IZABAYO HARANIRA Jean Luc Severin**
+   - Email: izabayojeanlucseverin@gmail.com
+   - Phone: +250790635888
+   - Role: Backend Developer
+   - Responsibilities: Handle SQLite database integration and CRUD operations.
+
+4. **ISHIMWE Kevin**
+   - Email: ishimwekevin108@gmail.com
+   - Phone: +250726373441
+   - Reg Number: 23/22823
+   - Role: Quality Assurance (QA) Analyst
+   - Responsibilities: Test application features, ensure functionality, submit screenshots.
+
+5. **ISHIMWE HABYARIMANA Regis**
+   - Phone: +250789149102
+   - Role: Documentation Specialist
+   - Responsibilities: Prepare explanation documents, summarize challenges, and include implementation details.
+
+This project is licensed to all the members listed above. By using, modifying, or distributing this software, you agree to comply with all applicable laws and the responsibilities listed above. The authors are not responsible for any misuse or legal implications arising from the use of this software.
+
+© 2025 INES Ruhengeri - Computer Science Department - Software Engineering Option - Group 4
